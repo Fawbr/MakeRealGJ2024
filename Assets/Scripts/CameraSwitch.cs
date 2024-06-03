@@ -5,6 +5,7 @@ using Cinemachine;
 
 public class CameraSwitch : MonoBehaviour
 {
+    [SerializeField] Camera firstPersonCam, thirdPersonCam;
     [SerializeField] CinemachineVirtualCamera vcamFirstPerson, vcamThirdPerson;
     [SerializeField] FirstPersonMovement firstPersonMovement;
     [SerializeField] ThirdPersonMovement thirdPersonMovement;
@@ -33,6 +34,8 @@ public class CameraSwitch : MonoBehaviour
             vcamFirstPerson.Priority = largerPriority;
             vcamThirdPerson.Priority = lesserPriority;
             thirdPersonMovement.enabled = false;
+            thirdPersonCam.enabled = false;
+            firstPersonCam.enabled = true;
             firstPersonMovement.enabled = true;
             isFirstPerson = false;
         }
@@ -41,6 +44,8 @@ public class CameraSwitch : MonoBehaviour
             vcamFirstPerson.Priority = lesserPriority;
             vcamThirdPerson.Priority = largerPriority;
             firstPersonMovement.enabled = false;
+            thirdPersonCam.enabled = true;
+            firstPersonCam.enabled = false;
             thirdPersonMovement.enabled = true;
             isFirstPerson = true;
         }
