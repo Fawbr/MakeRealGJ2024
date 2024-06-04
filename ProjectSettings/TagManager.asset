@@ -4,15 +4,15 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - HighlightObject
+  - Waypoint
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - BlindLayer
+  - Wall
   - Water
   - UI
-  - 
+  - Waypoint
   - 
   - 
   - 
