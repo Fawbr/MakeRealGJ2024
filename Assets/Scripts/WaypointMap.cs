@@ -14,7 +14,7 @@ public class WaypointMap : MonoBehaviour
     float limitXPos = 30f, limitXNeg = -30f, limitZPos = 30f, limitZNeg = -30f;
     
     GameObject xPosWaypoint = null, xNegWaypoint = null, zPosWaypoint = null, zNegWaypoint = null; 
-    [SerializeField] LayerMask wallMask, waypointMask;
+    [SerializeField] public LayerMask wallMask, waypointMask;
     Color white = new Color(255f, 255f, 255f);
     Color red = new Color(255f, 0f, 0f);
     // Start is called before the first frame update
@@ -23,12 +23,6 @@ public class WaypointMap : MonoBehaviour
         waypoints = GetWaypoints();
         CreateConnections();
         gameObject.GetComponent<Pathfinding>().FindPath(TestStart, TestEnd);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     private List<GameObject> GetWaypoints()

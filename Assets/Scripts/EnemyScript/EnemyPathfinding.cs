@@ -17,9 +17,8 @@ public class EnemyPathfinding : MonoBehaviour
     Rigidbody rb;
     Animator enemyAnimator;
     GameObject nextNode;
-    private NavMeshAgent nMA;
     int nextNodeInt;
-    float freezeTimer = 0f;
+    private NavMeshAgent nMA;
     float aggressionTimer = 0f;
     float huntingTimer = 0f;
 
@@ -95,23 +94,7 @@ public class EnemyPathfinding : MonoBehaviour
         nodeChoices.Clear();
         return nextNode;
     }
-    private void EnemyTeleportAway()
-    {
-        List<GameObject> possibleNodes = new List<GameObject>();
-        foreach (GameObject waypoints in allNodes)
-        {
-            if (Vector3.Distance(playerTarget.transform.position, waypoints.transform.position) > 50f)
-            {
-                possibleNodes.Add(waypoints);
-            }
-        }
 
-        int chosenNode = Random.Range(0, possibleNodes.Count);
-        nextNode = possibleNodes[chosenNode];
-        //transform.position = new Vector3(possibleNodes[chosenNode].transform.position.x, transform.position.y, possibleNodes[chosenNode].transform.position.z);
-        nMA.Warp(new Vector3(possibleNodes[chosenNode].transform.position.x, transform.position.y, possibleNodes[chosenNode].transform.position.z));
-        possibleNodes.Clear();
-    }
     private void OnTriggerStay(Collider other)
     {
         if (other.tag == "Player")
@@ -126,17 +109,9 @@ public class EnemyPathfinding : MonoBehaviour
                     rb.MoveRotation(Quaternion.LookRotation(playerTarget.transform.position - transform.position));
                     enemyAnimator.SetTrigger("Idling");
                     nMA.velocity = new Vector3(0, 0, 0);
-                    freezeTimer += Time.deltaTime;
-                    if (freezeTimer >= 3f)
-                    {
-                        EnemyTeleportAway();
-                        freezeTimer = 0f;
-                    }
-
                 }
                 else
                 {
-                    freezeTimer = 0f;
                     enemySpeed = 5f;
                 }
             }
