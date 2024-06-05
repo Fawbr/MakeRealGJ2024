@@ -5,8 +5,11 @@ using UnityEngine;
 
 public class WaypointMap : MonoBehaviour
 {
-    [SerializeField] List<GameObject> waypoints = new List<GameObject>();
+    [SerializeField] public List<GameObject> waypoints = new List<GameObject>();
     [SerializeField] float threshold;
+
+    [SerializeField] GameObject TestStart, TestEnd;
+    
     
     float limitXPos = 30f, limitXNeg = -30f, limitZPos = 30f, limitZNeg = -30f;
     
@@ -19,6 +22,7 @@ public class WaypointMap : MonoBehaviour
     {
         waypoints = GetWaypoints();
         CreateConnections();
+        gameObject.GetComponent<Pathfinding>().FindPath(TestStart, TestEnd);
     }
 
     // Update is called once per frame

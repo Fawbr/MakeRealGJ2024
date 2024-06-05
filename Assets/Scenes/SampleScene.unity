@@ -609,6 +609,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &18492218
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -720,6 +724,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &24746615
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1122,6 +1130,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &108917832
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1233,6 +1245,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &113768015
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1344,6 +1360,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &115182405
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1455,6 +1475,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &125053907
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1566,6 +1590,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &127997619
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1677,6 +1705,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &152575815
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1982,6 +2014,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &175400918
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2190,6 +2226,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &212743866
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2301,6 +2341,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &221585146
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2412,6 +2456,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &234360566
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2523,6 +2571,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &239729600
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2634,6 +2686,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &241002614
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2842,6 +2898,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &245008515
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2953,6 +3013,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &251854938
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3258,6 +3322,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &272082277
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3370,6 +3438,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 676488099}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &275041157
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3481,6 +3553,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &277981310
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3592,6 +3668,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &278939312
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3800,6 +3880,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &302017442
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3911,6 +3995,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &333596015
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4119,6 +4207,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &381444727
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4230,6 +4322,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &401946594
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4341,6 +4437,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &434132235
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4646,6 +4746,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &449384053
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5048,6 +5152,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &460750190
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5159,6 +5267,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &469036737
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5270,6 +5382,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &470000553
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5381,6 +5497,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &490379054
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5492,6 +5612,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &490544528
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5603,6 +5727,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &494771014
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5829,6 +5957,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &531754247
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6037,6 +6169,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &540665797
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6470,6 +6606,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &564549273
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6678,6 +6818,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &582493752
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6789,6 +6933,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &598571286
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6997,6 +7145,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &602040837
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7302,6 +7454,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &630921676
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7510,6 +7666,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &644405748
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7621,6 +7781,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &661902372
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7732,6 +7896,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &663438004
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7843,6 +8011,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &663592710
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7954,6 +8126,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &663669288
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8162,6 +8338,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &674073658
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8273,6 +8453,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &674130953
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8385,6 +8569,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 275041151}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &676488105
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8913,6 +9101,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 1507821245}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &729060521
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9024,6 +9216,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &736796396
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9135,6 +9331,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &741255874
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9440,6 +9640,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &770611161
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9745,6 +9949,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &786840800
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9768,6 +9976,7 @@ GameObject:
   m_Component:
   - component: {fileID: 787876542}
   - component: {fileID: 787876543}
+  - component: {fileID: 787876544}
   m_Layer: 0
   m_Name: Pathing System
   m_TagString: Untagged
@@ -9931,12 +10140,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waypoints: []
   threshold: 35
+  TestStart: {fileID: 1198953928}
+  TestEnd: {fileID: 892643010}
   wallMask:
     serializedVersion: 2
     m_Bits: 8
   waypointMask:
     serializedVersion: 2
     m_Bits: 72
+--- !u!114 &787876544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 787876541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df23abd5b0fd914894a47ab3acdd314, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypointMap: {fileID: 787876543}
+  nodeList: []
 --- !u!1 &799092985
 GameObject:
   m_ObjectHideFlags: 0
@@ -10229,6 +10454,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &835283492
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10340,6 +10569,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &843707580
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10451,6 +10684,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &846429362
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10659,6 +10896,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &850377370
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10965,6 +11206,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 1294569521}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &878258622
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11076,6 +11321,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &880115471
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11284,6 +11533,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &892643016
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11589,6 +11842,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &905008640
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11700,6 +11957,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &905331763
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12005,6 +12266,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &935638811
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12116,6 +12381,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &940414505
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12324,6 +12593,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &950300448
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12978,6 +13251,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &994105024
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13089,6 +13366,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1026144328
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13491,6 +13772,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1053951773
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13602,6 +13887,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1082423096
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13791,6 +14080,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1085193356
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14096,6 +14389,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1104215450
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14304,6 +14601,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1111979228
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14415,6 +14716,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1118236048
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14526,6 +14831,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1141431888
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14734,6 +15043,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1164211172
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15039,6 +15352,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1190867168
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15150,6 +15467,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1198953934
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15358,6 +15679,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1223984067
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15760,6 +16085,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1238186998
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15968,6 +16297,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1250754157
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16079,6 +16412,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1251867959
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16288,6 +16625,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 1958333502}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1272450624
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16399,6 +16740,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1279749484
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16608,6 +16953,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 878258616}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1294569527
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16719,6 +17068,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1305284495
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16830,6 +17183,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1306268351
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16941,6 +17298,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1329896662
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17052,6 +17413,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1331642545
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17260,6 +17625,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1378452849
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17371,6 +17740,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1387250754
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17870,6 +18243,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1418427368
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17981,6 +18358,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1443365195
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18092,6 +18473,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1462484799
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18203,6 +18588,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1466660204
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18411,6 +18800,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1474523716
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18522,6 +18915,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1501277126
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18633,6 +19030,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1506512708
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18745,6 +19146,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 729060515}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1507821251
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19147,6 +19552,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1534686679
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19355,6 +19764,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1579175897
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19466,6 +19879,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1585276165
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19577,6 +19994,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1594939665
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19688,6 +20109,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1605876461
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19799,6 +20224,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1609409783
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19910,6 +20339,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1612518255
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20021,6 +20454,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1613650664
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20132,6 +20569,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1616243627
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20243,6 +20684,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1625002773
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20548,6 +20993,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1644474187
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20756,6 +21205,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1704460711
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20867,6 +21320,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1707727071
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21075,6 +21532,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1770772305
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21671,6 +22132,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1798529760
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21782,6 +22247,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1812147460
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21893,6 +22362,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1816855644
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22198,6 +22671,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1836845198
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22309,6 +22786,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1842079017
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22614,6 +23095,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1868890082
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22919,6 +23404,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1908729254
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23450,6 +23939,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1932101391
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23707,6 +24200,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1937323320
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23819,6 +24316,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nearbyWaypoints:
   - {fileID: 1272450618}
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1958333508
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24124,6 +24625,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &1991050794
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24817,6 +25322,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &2046875666
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24928,6 +25437,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &2053545090
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25137,6 +25650,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &2068985378
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26000,6 +26517,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &2116874027
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26499,6 +27020,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nearbyWaypoints: []
+  GCost: 0
+  FCost: 0
+  HCost: 0
+  cameFromWaypoint: {fileID: 0}
 --- !u!65 &2137378498
 BoxCollider:
   m_ObjectHideFlags: 0
